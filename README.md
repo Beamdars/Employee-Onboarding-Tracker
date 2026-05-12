@@ -4,4 +4,7 @@
 
  [Power Platform Components](https://github.com/Beamdars/Employee-Onboarding-Tracker/blob/main/Power%20Platform%20Component.md#power-platform-components)
 
+ [Business Requirement and Acceptance Criteria
+](https://github.com/Beamdars/Employee-Onboarding-Tracker/blob/main/Business%20Requirement%20and%20Acceptance%20Criteria.md#business-requirement)
+
 [Entity Relationship Diagram](https://github.com/Beamdars/Employee-Onboarding-Tracker/blob/main/Entity%20Relationship%20Diagram.md#entity-relationship-diagram)
