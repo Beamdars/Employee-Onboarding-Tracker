@@ -1,4 +1,4 @@
-# BUSINESS REQUIREMENT
+## BUSINESS REQUIREMENT
 > Automated Task Generation: Onboarding tasks would be  automatically  generated  and assigned to the appropriate Team or individual upon submission in the HR system. This automation is executed using power Automate
 
 > Task Checklist Groups: as a business requirement, the system must support different task categories like IT set up (eg software installation and program downloads, Issuing equipment, access provisioning( eg email provisioning, application access, VPN credentials, network account creation), HR Administration(including welcoming email/communication, induction scheduling and training).
